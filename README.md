@@ -57,7 +57,6 @@ I have commented the code itself in each plot.R file, so feel free to follow alo
 ### OUTPUT
 When the script completes, your working directory will now contain the final png image of the plot with its proper name such as "plot1.png.
 
-Project coded by Connor Lenio ©2017. 
-
+Project coded by Connor Lenio - released into the public domain for educational purposes in 2017. 
 
 
